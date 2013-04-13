@@ -1,0 +1,8 @@
+AllPaths -- README
+
+This is a program that does the following. 
+
+1. Given a graph G, source s, and destination d: find all paths between the s and d in G. 
+Count the number of hops, 
+
+2. Find the shortest path between s and the other nodes using Dijkstra 
