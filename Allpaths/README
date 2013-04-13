@@ -6,3 +6,7 @@ This is a program that does the following.
 Count the number of hops, 
 
 2. Find the shortest path between s and the other nodes using Dijkstra 
+
+
+TODO: 
+Add comments to the code. 
